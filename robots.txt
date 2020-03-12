@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeziedeech.myacorn.com/sitemap.xml
